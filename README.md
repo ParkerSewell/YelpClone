@@ -32,7 +32,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/fx0ynPH.gif' # Project 3 - *Name of App Here*
+<img src='http://imgur.com/fx0ynPH' # Project 3 - *Name of App Here*
 
 **Name of your app** is a Yelp search app using the [Yelp API](http://www.yelp.com/developers/documentation/v2/search_api).
 
