@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Basic Yelp client
 
 This is a headless example of how to implement an OAuth 1.0a Yelp API client. The Yelp API provides an application token that allows applications to make unauthenticated requests to their search API.
@@ -32,3 +33,7 @@ Business.searchWithTerm("Restaurants", sort: .Distance, categories: ["asianfusio
     }
 }
 ```
+=======
+# YelpClone
+An app that is essentially a clone of Yelp
+>>>>>>> c9b670ee72c1f6661b4e88857b23ec0325a2d18c
